@@ -9,9 +9,9 @@ Cada estudiante debe clonar o hacer fork de este repositorio y trabajar en su pr
 
 Completar con tus datos:
 
-- **Nombre:**  
-- **Carrera:**  
-- **Correo institucional:**  
+- **Nombre: Alexander Guerrero**  
+- **Carrera: Ingenieria Mecatronica**  
+- **Correo institucional: alexander.guerrero@ucb.edu.bo**  
 - **Grupo:**  
 
 ---
