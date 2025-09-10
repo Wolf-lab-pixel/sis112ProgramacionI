@@ -9,6 +9,6 @@ int main(void) {
     for (int i = 1; i <= numero; i++) {
         suma += i;
     }
-    
+
     return 0;
 }
